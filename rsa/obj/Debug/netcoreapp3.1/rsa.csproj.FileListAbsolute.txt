@@ -1,0 +1,15 @@
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.exe
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.deps.json
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.runtimeconfig.json
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.runtimeconfig.dev.json
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.dll
+C:\Users\mm\source\repos\rsa\rsa\bin\Debug\netcoreapp3.1\rsa.pdb
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.AssemblyInfo.cs
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.dll
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.pdb
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.genruntimeconfig.cache
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.Form1.resources
+C:\Users\mm\source\repos\rsa\rsa\obj\Debug\netcoreapp3.1\rsa.csproj.GenerateResource.cache
